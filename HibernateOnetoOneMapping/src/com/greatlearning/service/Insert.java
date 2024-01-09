@@ -26,7 +26,7 @@ public class Insert {
 		Session session = factory.getCurrentSession();
 		
 		try {
-			Student tmpStudent = new Student("Adarsh", "Tayade", "adarshtayade87@gmail.com");
+			Student tmpStudent = new Student("Chinmay", "Dixit", "chinmaydixit23@gmail.com");
 			
 			StudentAddress studentAddressDetails = new StudentAddress("pune", "Maharashtra");
 			
